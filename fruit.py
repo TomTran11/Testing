@@ -1,2 +1,2 @@
 def favourit_food():
-    return [kiwi,apple]
+    return [kiwi,apple, plum, mango]
