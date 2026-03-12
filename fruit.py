@@ -1,3 +1,3 @@
 def favourit_food():
-    return plum, mango, kiwi, APPLES, apples
+    return plum, mango, kiwi
 
